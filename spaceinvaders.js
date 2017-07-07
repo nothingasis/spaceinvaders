@@ -1,3 +1,8 @@
+//Nurthin Aziz
+//Mockup of spaceinvaders for the BBC microbit
+//Canvas is a 5x5 LED Matrix
+//
+
 //Globals
 let player: game.LedSprite = null;
 let enemy: game.LedSprite = null;
